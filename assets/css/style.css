@@ -86,6 +86,7 @@ aside {
     background-color: #2589bd;
 }
 
+/*changed classes to say benefits and condensed the stylings*/
 .benefits {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,7 +103,7 @@ aside {
     max-width: 150px;
 }
  
-
+/*changed classes to say business functions and condensed stylings*/
 .business-functions {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,8 +120,6 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-
 
 footer {
     padding: 30px;
