@@ -14,6 +14,6 @@
 * https://jared-n2.github.io/01-HTML-CSS-and-GIT-CODE-REFRACTOR/
 
 ### how it should look
-! [screenshot](https://jared-n2.github.io/01-HTML-CSS-and-GIT-CODE-REFRACTOR/)
+![screenshot](https://jared-n2.github.io/01-HTML-CSS-and-GIT-CODE-REFRACTOR/)
 
 
