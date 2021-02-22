@@ -13,8 +13,8 @@
 ### Link to deploy application
 * https://jared-n2.github.io/01-HTML-CSS-and-GIT-CODE-REFRACTOR/
 
-<img src="./assets/images/search-engine-optimization.jpg" alt="a notebook that says SEO on it"/>
-
 ### how it should look
+<img src=" https://jared-n2.github.io/01-HTML-CSS-and-GIT-CODE-REFRACTOR/
+" alt="finished website">
 
 
